@@ -1,6 +1,6 @@
 [ ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zainab Suleiman</h1>
-<h3 align="center">A passionate Back end developer from Rwanda</h3>
+<h3 align="center">A passionate Software engineer </h3>
 <img align=“right" alt=“coding” width=“400”  src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0Vcd2UYsNq5QYVr7ZKtJI7-cfrv9owQHlQ&usqp=CAU
 “ 
 
